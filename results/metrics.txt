@@ -1,0 +1,13 @@
+Dog vs Cat Image Classifier
+===========================
+
+Model: MobileNetV2 Transfer Learning
+Dataset: 3,000 images
+Train: 2,100 images
+Validation: 450 images
+Test: 450 images
+
+Accuracy:  0.9778
+Precision: 0.9614
+Recall:    0.9956
+F1 Score:  0.9782
